@@ -124,3 +124,7 @@ GitHub propose des **modèles de workflow**. Pour créer votre pipeline :
 - Ajouter un slot de préproduction sur Azure
 - Utiliser un environnement GitHub pour déploiement conditionnel
 - Separer en 2 pipeline CI.yml et CD.yml
+
+
+[![Deploy ASP.NET Core to Azure](https://github.com/VioletteCrochet/Tp-Azure/actions/workflows/deploy.yml/badge.svg)](https://github.com/VioletteCrochet/TP-azure/actions/workflows/main_newapptartine.yml)
+
