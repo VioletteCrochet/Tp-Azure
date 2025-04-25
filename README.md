@@ -126,5 +126,5 @@ GitHub propose des **modèles de workflow**. Pour créer votre pipeline :
 - Separer en 2 pipeline CI.yml et CD.yml
 
 
-[![Deploy ASP.NET Core to Azure](https://github.com/VioletteCrochet/tp-ci-cd-github-action-to-azure-web-app-VioletteCrochet/actions/workflows/deploy.yml/badge.svg)](https://github.com/VioletteCrochet/tp-ci-cd-github-action-to-azure-web-app-VioletteCrochet/actions/workflows/main_newapptartine.yml)
+[![Deploy ASP.NET Core to Azure](https://github.com/VioletteCrochet/Tp-Azure/actions/workflows/deploy.yml/badge.svg)](https://github.com/VioletteCrochet/tp-ci-cd-github-action-to-azure-web-app-VioletteCrochet/actions/workflows/main_newapptartine.yml)
 
